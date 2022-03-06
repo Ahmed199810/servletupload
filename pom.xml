@@ -11,7 +11,7 @@
 
   <name>test Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -37,6 +37,7 @@
   </dependencies>
 
   <build>
+<<<<<<< HEAD
     <finalName>test</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
@@ -71,5 +72,8 @@
         </plugin>
       </plugins>
     </pluginManagement>
+=======
+    <finalName>ROOT</finalName>
+>>>>>>> bcdfacefa4d108efe13f93dfe15b5996ba3ec7e9
   </build>
 </project>

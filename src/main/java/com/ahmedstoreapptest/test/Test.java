@@ -1,8 +1,17 @@
 package com.ahmedstoreapptest.test;
 
+<<<<<<< HEAD
 
 
 import java.io.IOException;
+=======
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+>>>>>>> bcdfacefa4d108efe13f93dfe15b5996ba3ec7e9
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
